@@ -1,6 +1,7 @@
 Hi this is keshav0100 Credit Approval System 
 
-Credit-Approval-System using Customer and Loan
+Credit-Approval-System 
+
 Technologies used:
 
 Django,
